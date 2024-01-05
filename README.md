@@ -37,10 +37,10 @@
 
 <!-- Tech Stack Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Web%20Dev-HTML%2C%20CSS%2C%20React%2C%20Node.js-informational" alt="Web Development">
-  <img src="https://img.shields.io/badge/Database-MongoDB%2C%20MySQL-brightgreen" alt="Database: MongoDB, MySQL">
   <img src="https://img.shields.io/badge/Tools-Git%2C%20GitHub%2C%20VS%20Code-important" alt="Tools: Git, GitHub, VS Code">
   <img src="https://img.shields.io/badge/DevOps-Docker%2C%20CI/CD%2C%20Kubernetes%2C%20AWS-yellow" alt="DevOps: Docker, CI/CD, Kubernetes, AWS">
+  <img src="https://img.shields.io/badge/Database-MongoDB%2C%20MySQL%2C%20PostgreSQL-brightgreen" alt="Database: MongoDB, MySQL, PostgreSQL">
+  <img src="https://img.shields.io/badge/Web%20Dev-HTML%2C%20CSS%2C%20React%2C%20Node.js-informational" alt="Web Development">
 </p>
 
 <!-- Projects -->
