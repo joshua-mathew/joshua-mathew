@@ -6,7 +6,8 @@
 <!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development%20%26%20DevOps-brightgreen" alt="Focus: Full-Stack Development & DevOps">
-  <img src="https://img.shields.io/badge/Languages-JavaScript%2C%20Python%2C%20Java%2C%20Docker-blue" alt="Languages: JavaScript, Python, Java, Docker">
+  <img src="https://img.shields.io/badge/Systems%20Engineering-Linux%2C%20Networking%2C%20Security-blue" alt="Systems Engineering: Linux, Networking, Security">
+  <img src="https://img.shields.io/badge/Site%20Reliability-Scaling%2C%20Monitoring%2C%20Incident%20Response-lightgrey" alt="Site Reliability: Scaling, Monitoring, Incident Response">
 </p>
 
 <!-- About Me -->
@@ -36,10 +37,11 @@
 
 <!-- Tech Stack Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Tools-Git%2C%20GitHub%2C%20VS%20Code-important" alt="Tools: Git, GitHub, VS Code">
+  <img src="https://img.shields.io/badge/Languages-JavaScript%2C%20Python%2C%20Java-blue" alt="Languages: JavaScript, Python, Java">
   <img src="https://img.shields.io/badge/DevOps-Docker%2C%20CI/CD%2C%20Kubernetes%2C%20AWS-yellow" alt="DevOps: Docker, CI/CD, Kubernetes, AWS">
   <img src="https://img.shields.io/badge/Database-MongoDB%2C%20MySQL%2C%20PostgreSQL-brightgreen" alt="Database: MongoDB, MySQL, PostgreSQL">
   <img src="https://img.shields.io/badge/Web%20Dev-HTML%2C%20CSS%2C%20React%2C%20Node.js-informational" alt="Web Development">
+  <img src="https://img.shields.io/badge/Tools-Git%2C%20GitHub%2C%20VS%20Code-important" alt="Tools: Git, GitHub, VS Code">
 </p>
 
 <!-- Projects -->
