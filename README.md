@@ -5,7 +5,6 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Student-blue" alt="Status: Student">
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development%20%26%20DevOps-brightgreen" alt="Focus: Full-Stack Development & DevOps">
   <img src="https://img.shields.io/badge/Languages-JavaScript%2C%20Python%2C%20Java%2C%20Docker-blue" alt="Languages: JavaScript, Python, Java, Docker">
 </p>
