@@ -96,7 +96,7 @@
 </h2>
 
 <p align="center">
-  <em>Let's weave stories in the digital tapestry together! 🌈</em>
+  <em>Let's weave stories in the digital tapestry together! 🎨</em>
 </p>
 
 <p align="center">
